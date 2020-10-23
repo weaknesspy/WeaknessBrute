@@ -1,2 +1,3 @@
 # WeaknessBrute
-Basical BruteForce script
+
+python3 WeaknessBrute {Target link} {Wordlist}
