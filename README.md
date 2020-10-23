@@ -1,0 +1,2 @@
+# WeaknessBrute
+Basical BruteForce script
